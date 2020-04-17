@@ -4,7 +4,7 @@
 * Krytox 205g0
 * Steel plate, vinyl wrapped
 * Plastic case
-* Reused PCB from cheap keyboard
+* Reused PCB
 * Reused stabilisers, lubbed, clipped, and band-aid modded
 * HK Gaming PBT keycap set  
 
