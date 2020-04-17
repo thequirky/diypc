@@ -1,4 +1,4 @@
-# Budget modded mechanical keyboard
+# Budget custom mechanical keyboard
 
 * Gateron Blacks, lubbed
 * Krytox 205g0
